@@ -1,0 +1,382 @@
+.body {
+    width: 785px;
+    height: 2046px;
+    position: relative;
+    background-color: #FFFAEA;
+
+    .pinkBlock {
+        width: 98px;
+        height: 98px;
+        background-color: #E4919E;
+        position: absolute;
+        top: 59px;
+        left: 62px;
+    }
+
+    .img--- {
+        width: 35px;
+        height: 34px;
+        position: absolute;
+        top: 74px;
+        right: 72px;
+    }
+
+    .iceCream {
+        width: 661px;
+        height: 300px;
+        position: absolute;
+        top: 225px;
+        left: 62px;
+        display: flex;
+        position: relative;
+
+        .leftblock {
+            width: 261px;
+            height: 248px;
+            position: absolute;
+            top: 26px;
+            left: 0;
+            position: relative;
+
+            .leftTitle {
+                width: 75px;
+                height: 44px;
+                position: absolute;
+                top: 26px;
+            }
+
+            .leftSpan {
+                width: 261px;
+                height: 194px;
+                position: absolute;
+                top: 80px;
+                left: 0;
+            }
+        }
+
+        .iceJpg {
+            width: 379px;
+            height: 300px;
+            position: absolute;
+            right: 0;
+        }
+    }
+
+    .onSale {
+        width: 117px;
+        height: 39px;
+        position: absolute;
+        top: 582px;
+        left: 334px;
+    }
+
+    .donut {
+        width: 196px;
+        height: 242px;
+        position: absolute;
+        top: 657px;
+        left: 62px;
+    }
+
+    .itemBlock {
+        margin: 0;
+        width: 140px;
+        height: 42px;
+        background-color: #D38282;
+        position: absolute;
+        top: 843px;
+        left: 90px;
+    }
+
+    .itemText {
+        margin: 0;
+        width: 41px;
+        height: 24px;
+        position: absolute;
+        top: 9px;
+        left: 48px;
+    }
+
+    .itemBlock1 {
+        margin: 0;
+        width: 140px;
+        height: 42px;
+        background-color: #D38282;
+        position: absolute;
+        top: 843px;
+        left: 323px;
+    }
+
+    .itemText1 {
+        margin: 0;
+        width: 41px;
+        height: 24px;
+        position: absolute;
+        top: 9px;
+        left: 48px;
+    }
+
+    .itemBlock2 {
+        margin: 0;
+        width: 140px;
+        height: 42px;
+        background-color: #D38282;
+        position: absolute;
+        top: 843px;
+        left: 556px;
+    }
+
+    .itemText2 {
+        margin: 0;
+        width: 41px;
+        height: 24px;
+        position: absolute;
+        top: 9px;
+        left: 48px;
+    }
+
+    .egg {
+        width: 196px;
+        height: 242px;
+        position: absolute;
+        top: 657px;
+        left: 295px;
+    }
+
+    .cookie {
+        width: 196px;
+        height: 242px;
+        position: absolute;
+        top: 657px;
+        right: 61px;
+    }
+
+    .lin {
+        width: 692px;
+        position: absolute;
+        top: 956px;
+        left: 44px;
+        border: 1px solid black;
+        background-image: ;
+    }
+
+    .News {
+        width: 86px;
+        height: 39px;
+        position: absolute;
+        top: 996px;
+        left: 350px;
+    }
+
+    .fuirt {
+        width: 196px;
+        height: 130px;
+        position: absolute;
+        top: 1057px;
+        left: 62px;
+    }
+
+    .cupCake {
+        width: 196px;
+        height: 130px;
+        position: absolute;
+        top: 1057px;
+        left: 295px;
+    }
+
+    .juice {
+        width: 196px;
+        height: 130px;
+        position: absolute;
+        top: 1057px;
+        left: 528px;
+    }
+
+    .lorem1 {
+        width: 196px;
+        height: 134px;
+        position: relative;
+        box-shadow: 1px 4px 4px 0px #00000040;
+        position: absolute;
+        top: 1187px;
+        left: 62px;
+    }
+
+    .lorem2 {
+        width: 196px;
+        height: 134px;
+        position: relative;
+        box-shadow: 1px 4px 4px 0px #00000040;
+        position: absolute;
+        top: 1187px;
+        left: 295px;
+    }
+
+    .lorem3 {
+        width: 196px;
+        height: 134px;
+        position: relative;
+        box-shadow: 1px 4px 4px 0px #00000040;
+        position: absolute;
+        top: 1187px;
+        left: 528px;
+    }
+
+    .dblock1 {
+        width: 90px;
+        height: 26px;
+        background-color: #343434;
+        margin: 0;
+        position: absolute;
+        top: 1276px;
+        left: 79px;
+    }
+
+    .dblock2 {
+        width: 90px;
+        height: 26px;
+        background-color: #343434;
+        margin: 0;
+        position: absolute;
+        top: 1276px;
+        left: 312px;
+    }
+
+    .dblock3 {
+        width: 90px;
+        height: 26px;
+        background-color: #343434;
+        margin: 0;
+        position: absolute;
+        top: 1276px;
+        left: 545px;
+    }
+
+    .deText1 {
+        margin: 0;
+        width: 38px;
+        height: 17px;
+        position: absolute;
+        top: 1281px;
+        left: 105px;
+    }
+
+    .deText2 {
+        margin: 0;
+        width: 38px;
+        height: 17px;
+        position: absolute;
+        top: 1281px;
+        left: 338px;
+    }
+
+    .deText3 {
+        margin: 0;
+        width: 38px;
+        height: 17px;
+        position: absolute;
+        top: 1281px;
+        left: 571px;
+    }
+
+    .more {
+        margin: 0;
+        width: 124.62px;
+        height: 36px;
+        background-color: #D38282;
+        position: absolute;
+        top: 1355px;
+        left: 330px;
+        box-shadow: 0 4px 4px 0 #00000040;
+    }
+
+    .moreText {
+        margin: 0;
+        width: 39px;
+        height: 19px;
+        position: absolute;
+        top: 9px;
+        left: 43px;
+    }
+
+    .pinka {
+        margin: 0;
+        width: 402px;
+        height: 370px;
+        background-color: #E49E9E;
+        position: absolute;
+        top: 1468px;
+        right: 383px;
+    }
+
+    .pinkB {
+        margin: 0;
+        width: 220px;
+        height: 267px;
+        background-color: #E49E9E;
+        position: absolute;
+        top: 1515px;
+        right: 61px;
+    }
+
+    .bery {
+        width: 405px;
+        height: 267px;
+        position: absolute;
+        top: 1515px;
+        left: 62px;
+    }
+
+    .NewArr {
+        margin: 0;
+        width: 131px;
+        height: 29px;
+        position: absolute;
+        top: 1547px;
+        left: 548px;
+    }
+
+    .loremEnd {
+        margin: 0;
+        width: 155px;
+        height: 169px;
+        position: absolute;
+        top: 1592px;
+        left: 536px;
+    }
+
+    .pinkEnd {
+        width: 785px;
+        height: 79px;
+        background-color: #E49E9E;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+    }
+
+    .end {
+        width: 187px;
+        height: 17px;
+        position: absolute;
+        top: 31px;
+        left: 302px;
+    }
+
+    .goBack {
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        bottom: 20px;
+        right: 70px;
+        transition: 0.1s;
+
+        &:hover {
+            transition: 0.2s;
+            position: absolute;
+            bottom: 30px;
+
+        }
+    }
+
+}

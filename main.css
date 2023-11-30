@@ -1,0 +1,336 @@
+.body {
+  width: 785px;
+  height: 2046px;
+  position: relative;
+  background-color: #FFFAEA;
+}
+.body .pinkBlock {
+  width: 98px;
+  height: 98px;
+  background-color: #E4919E;
+  position: absolute;
+  top: 59px;
+  left: 62px;
+}
+.body .img--- {
+  width: 35px;
+  height: 34px;
+  position: absolute;
+  top: 74px;
+  right: 72px;
+}
+.body .iceCream {
+  width: 661px;
+  height: 300px;
+  position: absolute;
+  top: 225px;
+  left: 62px;
+  display: flex;
+  position: relative;
+}
+.body .iceCream .leftblock {
+  width: 261px;
+  height: 248px;
+  position: absolute;
+  top: 26px;
+  left: 0;
+  position: relative;
+}
+.body .iceCream .leftblock .leftTitle {
+  width: 75px;
+  height: 44px;
+  position: absolute;
+  top: 26px;
+}
+.body .iceCream .leftblock .leftSpan {
+  width: 261px;
+  height: 194px;
+  position: absolute;
+  top: 80px;
+  left: 0;
+}
+.body .iceCream .iceJpg {
+  width: 379px;
+  height: 300px;
+  position: absolute;
+  right: 0;
+}
+.body .onSale {
+  width: 117px;
+  height: 39px;
+  position: absolute;
+  top: 582px;
+  left: 334px;
+}
+.body .donut {
+  width: 196px;
+  height: 242px;
+  position: absolute;
+  top: 657px;
+  left: 62px;
+}
+.body .itemBlock {
+  margin: 0;
+  width: 140px;
+  height: 42px;
+  background-color: #D38282;
+  position: absolute;
+  top: 843px;
+  left: 90px;
+}
+.body .itemText {
+  margin: 0;
+  width: 41px;
+  height: 24px;
+  position: absolute;
+  top: 9px;
+  left: 48px;
+}
+.body .itemBlock1 {
+  margin: 0;
+  width: 140px;
+  height: 42px;
+  background-color: #D38282;
+  position: absolute;
+  top: 843px;
+  left: 323px;
+}
+.body .itemText1 {
+  margin: 0;
+  width: 41px;
+  height: 24px;
+  position: absolute;
+  top: 9px;
+  left: 48px;
+}
+.body .itemBlock2 {
+  margin: 0;
+  width: 140px;
+  height: 42px;
+  background-color: #D38282;
+  position: absolute;
+  top: 843px;
+  left: 556px;
+}
+.body .itemText2 {
+  margin: 0;
+  width: 41px;
+  height: 24px;
+  position: absolute;
+  top: 9px;
+  left: 48px;
+}
+.body .egg {
+  width: 196px;
+  height: 242px;
+  position: absolute;
+  top: 657px;
+  left: 295px;
+}
+.body .cookie {
+  width: 196px;
+  height: 242px;
+  position: absolute;
+  top: 657px;
+  right: 61px;
+}
+.body .lin {
+  width: 692px;
+  position: absolute;
+  top: 956px;
+  left: 44px;
+  border: 1px solid black;
+}
+.body .News {
+  width: 86px;
+  height: 39px;
+  position: absolute;
+  top: 996px;
+  left: 350px;
+}
+.body .fuirt {
+  width: 196px;
+  height: 130px;
+  position: absolute;
+  top: 1057px;
+  left: 62px;
+}
+.body .cupCake {
+  width: 196px;
+  height: 130px;
+  position: absolute;
+  top: 1057px;
+  left: 295px;
+}
+.body .juice {
+  width: 196px;
+  height: 130px;
+  position: absolute;
+  top: 1057px;
+  left: 528px;
+}
+.body .lorem1 {
+  width: 196px;
+  height: 134px;
+  position: relative;
+  box-shadow: 1px 4px 4px 0px rgba(0, 0, 0, 0.2509803922);
+  position: absolute;
+  top: 1187px;
+  left: 62px;
+}
+.body .lorem2 {
+  width: 196px;
+  height: 134px;
+  position: relative;
+  box-shadow: 1px 4px 4px 0px rgba(0, 0, 0, 0.2509803922);
+  position: absolute;
+  top: 1187px;
+  left: 295px;
+}
+.body .lorem3 {
+  width: 196px;
+  height: 134px;
+  position: relative;
+  box-shadow: 1px 4px 4px 0px rgba(0, 0, 0, 0.2509803922);
+  position: absolute;
+  top: 1187px;
+  left: 528px;
+}
+.body .dblock1 {
+  width: 90px;
+  height: 26px;
+  background-color: #343434;
+  margin: 0;
+  position: absolute;
+  top: 1276px;
+  left: 79px;
+}
+.body .dblock2 {
+  width: 90px;
+  height: 26px;
+  background-color: #343434;
+  margin: 0;
+  position: absolute;
+  top: 1276px;
+  left: 312px;
+}
+.body .dblock3 {
+  width: 90px;
+  height: 26px;
+  background-color: #343434;
+  margin: 0;
+  position: absolute;
+  top: 1276px;
+  left: 545px;
+}
+.body .deText1 {
+  margin: 0;
+  width: 38px;
+  height: 17px;
+  position: absolute;
+  top: 1281px;
+  left: 105px;
+}
+.body .deText2 {
+  margin: 0;
+  width: 38px;
+  height: 17px;
+  position: absolute;
+  top: 1281px;
+  left: 338px;
+}
+.body .deText3 {
+  margin: 0;
+  width: 38px;
+  height: 17px;
+  position: absolute;
+  top: 1281px;
+  left: 571px;
+}
+.body .more {
+  margin: 0;
+  width: 124.62px;
+  height: 36px;
+  background-color: #D38282;
+  position: absolute;
+  top: 1355px;
+  left: 330px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2509803922);
+}
+.body .moreText {
+  margin: 0;
+  width: 39px;
+  height: 19px;
+  position: absolute;
+  top: 9px;
+  left: 43px;
+}
+.body .pinka {
+  margin: 0;
+  width: 402px;
+  height: 370px;
+  background-color: #E49E9E;
+  position: absolute;
+  top: 1468px;
+  right: 383px;
+}
+.body .pinkB {
+  margin: 0;
+  width: 220px;
+  height: 267px;
+  background-color: #E49E9E;
+  position: absolute;
+  top: 1515px;
+  right: 61px;
+}
+.body .bery {
+  width: 405px;
+  height: 267px;
+  position: absolute;
+  top: 1515px;
+  left: 62px;
+}
+.body .NewArr {
+  margin: 0;
+  width: 131px;
+  height: 29px;
+  position: absolute;
+  top: 1547px;
+  left: 548px;
+}
+.body .loremEnd {
+  margin: 0;
+  width: 155px;
+  height: 169px;
+  position: absolute;
+  top: 1592px;
+  left: 536px;
+}
+.body .pinkEnd {
+  width: 785px;
+  height: 79px;
+  background-color: #E49E9E;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.body .end {
+  width: 187px;
+  height: 17px;
+  position: absolute;
+  top: 31px;
+  left: 302px;
+}
+.body .goBack {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  bottom: 20px;
+  right: 70px;
+  transition: 0.1s;
+}
+.body .goBack:hover {
+  transition: 0.2s;
+  position: absolute;
+  bottom: 30px;
+}/*# sourceMappingURL=main.css.map */
